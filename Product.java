@@ -1,2 +1,3 @@
-public class Person{
+public class Product{
+    private int id;
 }
